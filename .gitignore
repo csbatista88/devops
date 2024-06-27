@@ -1,0 +1,3 @@
+.vagrant/*
+vagrant/server01/.vagrant/*
+vagrant/vagrant_getting_started/.vagrant/*

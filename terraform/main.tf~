@@ -1,0 +1,4 @@
+resource "local_file" "file-001" {
+  filename = "c:\\terraform\\notes.txt"
+  content  = "HCL Syntax"
+}
